@@ -1,0 +1,137 @@
+p{
+    color: green;
+    font-weight: bold;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#a{
+    color: orange;
+    font-family: serif;
+}
+
+#b{
+    color:aqua;
+    font-family: serif;
+}
+
+#c{
+    background-color: blue;
+    block-size: 50px;
+    width: 80px;
+    font-size: larger;
+    font-weight: bold;
+}
+.home .nav {
+    background-color: rgb(181, 66, 127);
+    /* rgba()0,0,0,0.5
+    hay5liha shafafa  */
+    overflow: auto;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.home .nav ul {
+    list-style-type:none;
+    /* display: flex; */
+    /* justify-content: flex-end ; */
+}
+.home .nav ul li {
+    float: left;
+    margin: 10px;
+    padding-top: 5px;
+}
+
+.home .nav ul li a {
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.home .nav ul .c {
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bolder ;
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+/* .text{ */
+    /* font-size: 20px; */
+    /* color: gray; */
+    /* float: right; */
+/* } */
+/* .tex{ */
+     /* text-align: center; */
+      /* width: 600px; */
+      /* font-size: 15px; */
+      /* color: gray; */
+      /* float: right; */
+/*  */
+/* } */
+
+.about , .container , .row , h3, p {
+
+    float: right;
+    width: 650px;
+justify-content:right;
+text-align: end;
+font-family: "Open Sans",sans-serif;
+    color: #444;
+}
+
+.ii {
+    float: left;
+    justify-content:left ;
+    background-position-x: right;
+    max-width: 100%;
+    height: auto;
+}
+
+#m{
+    font-size: 30px;
+    color: rgb(28, 25, 25);
+}
+
+#abd2{
+    font-family: Raleway,sans-serif;
+font-weight: 500;
+font-size: 16px;
+letter-spacing: 1px;
+display: inline-block;
+padding: 8px 30px 10px 30px;
+border-radius: 4px;
+transition: .5s;
+color: #fff;
+background: #01b8dc;
+box-shadow: 0 8px 28px rgb(22 223 126 / 45%);
+border: #01b8dc ;
+}
+
+#w{
+  text-align: end;
+}
+
+.ww{
+    width: 300px;
+    text-align: center;
+    float: right;
+}
+
+#clints, .clint {
+    text-align: center;
+    color: #5f687b;
+    
+}
+
+#contact , .username{
+    margin: 60px 30px;
+}
+
+#contact , .password{
+    margin: 60px;
+}
+
+
